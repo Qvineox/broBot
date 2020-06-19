@@ -1,0 +1,1 @@
+const botconfig = require("./botconfig") 

@@ -4,8 +4,10 @@
   "description": "Friendly Disocrd Bot",
   "main": "core.js",
   "dependencies": {
+    "@frangiskos/mssql": "^0.2.1",
     "discord.js": "^12.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "tedious": "^8.3.0"
   },
   "devDependencies": {},
   "scripts": {
